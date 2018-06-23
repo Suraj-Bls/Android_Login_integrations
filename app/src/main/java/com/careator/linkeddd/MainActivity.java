@@ -90,6 +90,8 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
         super.onCreate(savedInstanceState);
         //FacebookSdk.sdkInitialize(this.getApplicationContext());
 
+        //Test code thats it.
+
         setContentView(R.layout.activity_main);
 
 
