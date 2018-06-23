@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4_linkla.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xxxhdpi-v4\\linkla.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_linkla.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\linkla.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xxxhdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_linkla.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\linkla.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-anydpi-v26_linkla.xml.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-anydpi-v26\\linkla.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_linkla_round.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\linkla_round.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-mdpi-v4_linkla_round.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\linkla_round.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_linkla_round.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\linkla_round.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_linkla_round.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\linkla_round.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-anydpi-v26_linkla_round.xml.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-anydpi-v26\\linkla_round.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xhdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxxhdpi-v4_linkla_round.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xxxhdpi-v4\\linkla_round.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4_linkla.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\linkla.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8fe5f3f415d39c9243868b601a527ae5\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4_linkla.png.flat",
+        "source": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\packaged_res\\debug\\mipmap-hdpi-v4\\linkla.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Linkeddd\\linkedin-sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ssv520\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7a7566c50fcc55e7efe40c1a91cb4ada\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Linkeddd</string>
+    <string name="title">Click the Button to Log in</string>
+    <string name="details">TEXT</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email id</string>
+    <string name="username">User Name</string>
+    <string name="text1">text1</string>
+    <string name="text2">text2</string>
+    <string name="text3">text3</string>
+    <string name="facebook_app_id">1782136025199353</string>
+    <string name="facebook_login_protocol_scheme">fb1782136025199353</string>
+    <string name="signout">G+                     Sign Out</string>
+</resources>
